@@ -5,7 +5,7 @@ CSE 482 group proj
 - Download the streamed tweets:
 	- https://drive.google.com/drive/folders/1dis1b8tN8BBJyZtFeefQMqPdLU5gPgii?usp=sharing
 - Download the filtered tweets (to avoid running the preprocessing code again):
-	- https://drive.google.com/drive/folders/1dis1b8tN8BBJyZtFeefQMqPdLU5gPgii?usp=sharing
+	- https://drive.google.com/drive/folders/1vnosz7wREN4BuyUrEoOpFvljc_zfHgQA?usp=sharing
 - Run the notebooks using Jupyter Notebook and Python 2
 - Install these modules on your machine:
 	- testblob
